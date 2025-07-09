@@ -3,7 +3,7 @@ class Solution {
         s = s.toLowerCase();
 
         StringBuilder sb = new StringBuilder();
-
+        //string builder used to store only alphanumeric characters
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if ((c >= 'a' && c <= 'z') || (c >= '0' && c <= '9')) {
