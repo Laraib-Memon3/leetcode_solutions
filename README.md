@@ -1,56 +1,68 @@
-📘 LeetCode Solutions
-Welcome to my LeetCode Solutions Repository!
-Here, I share clean, well-explained, and optimized solutions for LeetCode problems to improve problem-solving skills, data structures, and algorithms.
+# 📘 LeetCode Solutions
 
-🚀 Purpose
-To track my LeetCode journey consistently.
+Welcome to my **LeetCode Solutions Repository**!  
+Here you'll find **clean, well-explained, and optimized solutions** to LeetCode problems—perfect for sharpening your problem-solving skills, mastering data structures, and acing algorithms.
 
-To maintain clean code and structured explanations.
+---
 
-To help others preparing for coding interviews.
+## 🚀 Purpose
 
-🛠️ Language Used
-(Add your primary language here, e.g., Python / Java / C++)
+- 📈 Track my LeetCode journey and progress.
+- 🧹 Maintain clean code and structured explanations.
+- 🤝 Help others prepare for coding interviews.
 
-📂 Folder Structure
-Copy code
-📦 LeetCode-Solutions/
- ┣ 📂 1-100/
- ┣ 📂 101-200/
- ┣ 📂 201-300/
- ┣ 📜 README.md
-Each folder contains problems in that range.
+---
 
-File names typically follow the pattern:
+## 🛠️ Language Used
 
-Copy code
-ProblemNumber_ProblemName.ext
-Each file includes:
+> **Primary Language:** _ Python / Java _
 
-LeetCode link in comments
+---
 
-Solution code
+## 📂 Folder Structure
 
-Explanation/comments for clarity
+```
+LeetCode-Solutions/
+ ├── 1-100/
+ ├── 101-200/
+ ├── 201-300/
+ └── README.md
+```
+- Each folder contains solutions for problems in that range.
+- File naming: `ProblemNumber_ProblemName.ext`  
+    _Example: `Porblem001_TwoSum.py`_
 
-📝 How to Use
-1️⃣ Clone the repository:
+Each solution file includes:
+- LeetCode problem link (in comments)
+- Solution code
+- Explanations/comments for clarity
 
-bash
-Copy code
-git clone https://github.com/yourusername/leetcode-solutions.git
-2️⃣ Navigate to the folder for the desired problem range.
+---
 
-3️⃣ Open the relevant solution in your preferred IDE.
+## 📝 How to Use
 
-4️⃣ Study, practice, and improve!
+1. **Clone the repository:**
+     ```bash
+     git clone https://github.com/yourusername/leetcode-solutions.git
+     ```
+2. **Navigate** to the folder for your problem range.
+3. **Open** the relevant solution in your favorite IDE.
+4. **Study, practice, and improve!**
 
-🌐 Connect with Me
-LinkedIn: https://www.linkedin.com/in/laraibshuaib
+---
 
-⭐️ Support
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/laraibshuaib)
+
+---
+
+## ⭐️ Support
+
 If you find this repository helpful:
+- Give it a ⭐️ to motivate consistency!
+- Share it with friends preparing for coding interviews.
 
-Give it a ⭐️ to motivate consistency.
+---
 
-Share it with friends preparing for coding interviews.
+Happy Coding! 🚀
