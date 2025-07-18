@@ -10,10 +10,9 @@ To maintain clean code and structured explanations.
 To help others preparing for coding interviews.
 
 🛠️ Language Used
-(Add your primary language here, e.g., Python / Java / C++)
+Python / Java
 
 📂 Folder Structure
-Copy code
 📦 LeetCode-Solutions/
  ┣ 📂 1-100/
  ┣ 📂 101-200/
@@ -36,8 +35,6 @@ Explanation/comments for clarity
 📝 How to Use
 1️⃣ Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/yourusername/leetcode-solutions.git
 2️⃣ Navigate to the folder for the desired problem range.
 
@@ -46,7 +43,7 @@ git clone https://github.com/yourusername/leetcode-solutions.git
 4️⃣ Study, practice, and improve!
 
 🌐 Connect with Me
-LinkedIn: https://www.linkedin.com/in/laraibshuaib
+LinkedIn: [https://www.linkedin.com/in/laraibshuaib](https://www.linkedin.com/in/laraib-shuaib/)
 
 ⭐️ Support
 If you find this repository helpful:
