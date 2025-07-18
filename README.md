@@ -53,7 +53,7 @@ Each solution file includes:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/laraibshuaib)
+- [LinkedIn](https://www.linkedin.com/in/laraib-shuaib/)
 
 ---
 
