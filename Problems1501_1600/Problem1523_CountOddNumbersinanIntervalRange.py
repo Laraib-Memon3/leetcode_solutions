@@ -15,6 +15,19 @@ class Solution:
     def countOdds(self, low: int, high: int) -> int:
         return (high+1)//2 - (low//2)
 
+
+# also a solution but memory limit exceed while submitting
+class Solution:
+    def countOdds(self, low: int, high: int) -> int:
+        count = 0
+        ans = []
+
+        for i in range (low , high +1):
+            if i%2 != 0:
+                count +=1
+                ans.append(i)
+        return count
+
 # Complexity
 # Time Complexity: O(1)
 # Space Complexity: O(1)
