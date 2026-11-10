@@ -1,3 +1,9 @@
+# For each number, compare it with every other number and count how many values are smaller.
+
+# Approach
+# For each number, compare it with every other number and count how many values are smaller.
+
+
 class Solution:
     def smallerNumbersThanCurrent(self, nums: list[int]) -> list[int]:
         ans = []
